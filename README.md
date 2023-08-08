@@ -12,7 +12,7 @@ Made by [IzTendo (lintu)](https://github.com/IzTendo)
 <br>
 
 # How can I contribute?
-If you have an update that is currently missing from our repository and wish to share it with us, please submit a [pull request](https://github.com/IzTendo/FortniteSwitchBuilds/pulls). If you have questions, concerns, or need help dumping an update, please reach out to me on Discord.
+If you have an update that is currently missing from our repository and wish to share it with us, please submit a [pull request](https://github.com/simplyblk/FortniteSwitchBuilds/pulls). If you have questions, concerns, or need help dumping an update, please reach out to me on Discord.
 
 # How do I utilize these in-game?
 You will need additional mods and patches in order to connect to a backend and play matches using these builds. You can find all the required patches, as well as a 24/7 hosted backend in our community's [Discord server.](https://discord.gg/j8s8TH5QH4)
@@ -102,7 +102,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 
 
 # Season 13 (Chapter 2 Season 3)
-* No updates for this season have been found. If you have one and wish to contribute to our archive, please submit a [pull request](https://github.com/IzTendo/FortniteSwitchBuilds/pulls).
+* No updates for this season have been found. If you have one and wish to contribute to our archive, please submit a [pull request](https://github.com/simplyblk/FortniteSwitchBuilds/pulls).
 
 
 # Season 14 (Chapter 2 Season 4)
@@ -116,10 +116,10 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | 15.30                   	| 02-02-21       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20v8388608.nsp)                  |
 
 # Season 16 (Chapter 2 Season 6)
-* No updates for this season have been found. If you have one and wish to contribute to our archive, please submit a [pull request](https://github.com/IzTendo/FortniteSwitchBuilds/pulls).
+* No updates for this season have been found. If you have one and wish to contribute to our archive, please submit a [pull request](https://github.com/simplyblk/FortniteSwitchBuilds/pulls).
 
 # Season 17 (Chapter 2 Season 7)
-* No updates for this season have been found. If you have one and wish to contribute to our archive, please submit a [pull request](https://github.com/IzTendo/FortniteSwitchBuilds/pulls).
+* No updates for this season have been found. If you have one and wish to contribute to our archive, please submit a [pull request](https://github.com/simplyblk/FortniteSwitchBuilds/pulls).
 
 # Season 18 (Chapter 2 Season 8)
 | Build                         | Date           	 |		    Link             |
