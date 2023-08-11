@@ -82,7 +82,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 10.00                   	| 08-01-19       	 |		TBD                    |
-| 10.10                   	| 08-14-19       	 |		N/A)                    |
+| 10.10                   	| 08-14-19       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20[010025400AECE800][v4456448][10.10].nsp)                    |
 | 10.20                   	| 08-27-19       	 |		TBD                    |
 | 10.20.1                   	| 08-29-19       	 |		TBD                    |
 | 10.20.2                   	| 09-04-19       	 |		TBD                    |
@@ -92,7 +92,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 # Season 11 (Chapter 2 Season 1)
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
-| 11.00.1                 	| 10-15-19       	 |		N/A)                    |
+| 11.00.1                 	| 10-15-19       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20[010025400AECE800][v5046272][11.00.1].nsp)                    |
 
 # Season 12 (Chapter 2 Season 2)
 | Build                         | Date           	 |		    Link             |
