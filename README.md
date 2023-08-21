@@ -59,6 +59,7 @@ The Nintendo Switch version of the game has a base title, which is essentially a
 | ----------------------------- | ---------------------- | ------------------------------ |
 | 7.10                   	| 07-18-18       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20[010025400AECE800][v2424832].nsp)                   |
 | 7.20.1                 	| 01-15-19       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20010025400AECE800v2555904.nsp)                   |
+| 7.40               	| 02-14-19       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%207.40%20[CL-2752517].nsp)            |
 
 # Season 8 (Chapter 1 Season 8)
 | Build                         | Date           	 |		    Link             |
