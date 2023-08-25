@@ -31,7 +31,7 @@ Fortnite was released for the Nintendo Switch on June 12th, 2018 during Chapter 
 The Nintendo Switch version of the game has a base title, which is essentially a dummy title that the updates themselves mount on to. The updates will be the only NSPs to actually include game content/files. In order to use any builds available here, you must first download the base and install the update of choice on top of it.
 | Build                         | Date           	 |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------------ |
-| Base (010025400AECE000)                   	| 06-12-18       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20[010025400AECE000][v0].nsp)                |
+| Base (010025400AECE000)                   	| 06-12-18       	 |		[Download](https://switchcdn.fnbuilds.services/Fortnite%20Base%20v0%20[CL-0].nsp)                |
 
 # Season 4 (Chapter 1 Season 4)
 | Build                         | Date           	 |		    Link             |
